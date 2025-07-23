@@ -17,6 +17,19 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashodha-cooray-573628272)
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/26338188/yashodha-cooray)
 
+<p align="center">
+  <a href="https://www.instagram.com/your_username">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yashodha-cooray-573628272">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/26338188/yashodha-cooray?tab=profile">
+    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ### 🧠 Tech Stack:
 
