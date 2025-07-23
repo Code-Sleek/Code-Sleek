@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 🌐 Socials:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yashodha-cooray-573628272">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
