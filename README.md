@@ -1,3 +1,4 @@
+<p align="center">
 <!-- Typing Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yashodha+Cooray+👋)](https://git.io/typing-svg)
 
@@ -61,7 +62,14 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=tokyonight&hide_border=true)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
+---
+
+<h3 align="center">💚 Thanks for stopping by! Keep creating, keep shining 💙</h3>
+</p>
