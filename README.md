@@ -1,9 +1,5 @@
-<p align="center">
-<!-- Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yashodha+Cooray+👋)](https://git.io/typing-svg)
-
 ### 🍄About Me:
-
+- 🐼Hi, this is Yashodha Cooray, the Code-Sleek.
 - 👀 I’m interested in Data Science, AI, Machine Learning.
 - 🌱 I’m currently learning Programming and AI.
 - 💞️ I’m looking to collaborate on IT projects to level-up my skills.
@@ -66,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
