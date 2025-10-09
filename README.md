@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph"/>
 </p>
 
 ---
