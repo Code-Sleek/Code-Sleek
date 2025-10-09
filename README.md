@@ -9,12 +9,6 @@
 - 📫 Can reach me via my LinkedIn.
 - ⚡ Fun fact: Chilling girl 😉
 
-  <p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/data-configuration.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/web-design.png" width="40" />
-</p>
-
 <!---
 Code-Sleek/Code-Sleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
