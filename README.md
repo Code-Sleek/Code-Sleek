@@ -61,7 +61,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Github activity graph]("https://github-readme-activity-graph.vercel.app/graph?username=Code-Sleek")](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🧿Activity
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Code-Sleek&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
