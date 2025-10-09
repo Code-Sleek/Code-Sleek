@@ -10,19 +10,6 @@
 Code-Sleek/Code-Sleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### 🌐 Socials:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yashodha-cooray-573628272">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/26338188/yashodha-cooray">
-    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-</p>
-
-
-
 ### 🧠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,6 +32,14 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
+### 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Code-Sleek&theme=algolia)
+
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Sleek&show_icons=true&theme=tokyonight)
 
@@ -53,18 +48,22 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Sleek&layout=compact&theme=tokyonight)
 
 
-### 🏆Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Code-Sleek&theme=algolia)
-
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-### 🧿Activity
+### 🧿 Activity
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Code-Sleek&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+### 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashodha-cooray-573628272">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/26338188/yashodha-cooray">
+    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+</p>
+
 
 <h3 align="center">💚 Thanks for stopping by! Keep creating, keep shining 💙</h3>
 </p>
