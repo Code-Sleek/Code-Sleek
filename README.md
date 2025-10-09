@@ -11,7 +11,7 @@
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/your-coding-gif.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.ggpht.com%2FdjOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA%3Ds853-nd-v1&tbnid=ehMfkDg09OWoUM&vet=10CAIQxiAoAGoXChMIgLrSv7qXkAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fpost%2FUgkxt8arsAlPd7gLJsCL0gA81iRFUWm_z_i2&docid=r2eE_dQco9ZdUM&w=853&h=480&itg=1&q=cat%20computer%20gif%20animated%20github&ved=0CAIQxiAoAGoXChMIgLrSv7qXkAMVAAAAAB0AAAAAEAc" width="400" alt="coding gif">
+<img src="https://github.com/Code-Sleek/codingcat" width="400" alt="coding gif">
 
 </td>
 </tr>
@@ -20,6 +20,8 @@
 Code-Sleek/Code-Sleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 ### 🧠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
