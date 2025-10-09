@@ -46,5 +46,6 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Code-Sleek&theme=algolia)(https://github.com/ryo-ma/github-profile-trophy)
 
 
