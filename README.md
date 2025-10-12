@@ -1,5 +1,6 @@
 <div align="center"><!-- Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yashodha+Cooray+💙)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yashodha+Cooray+💙)](https://git.io/typing-svg)
+</div>
 
 ### 🍄About Me:
 - 🐼 This is Code-Sleek.
