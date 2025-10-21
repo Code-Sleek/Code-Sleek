@@ -37,18 +37,6 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-### 🏆 Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=Code-Sleek&theme=algolia)
-
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Sleek&show_icons=true&theme=tokyonight)
-
----
 
 
 ### 💻 Most Used Languages
