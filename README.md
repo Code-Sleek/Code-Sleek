@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Sleek&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code-Sleek&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
