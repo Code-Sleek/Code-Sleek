@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <b>✨ Visitors Count ✨</b><br>
-  <img src="https://profile-counter.glitch.me/dilshani95/count.svg" />
+  <img src="https://profile-counter.glitch.me/Code-Sleek/count.svg" />
 </p>
 
 
