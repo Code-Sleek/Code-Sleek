@@ -1,7 +1,6 @@
 <!-- Typing Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yashodha+Cooray+💙)](https://git.io/typing-svg)
 
-<p align="center>
 ### 🍄About Me:
 - 🐼 This is Code-Sleek.
 - 👀 I’m interested in Data Science, AI, Machine Learning.
@@ -9,23 +8,13 @@
 - 💞️ I’m looking to collaborate on IT projects to level-up my skills.
 - 📫 Can reach me via my LinkedIn.
 - ⚡ Fun fact: Chilling girl 😉
-  </p>
+
 <!---
 Code-Sleek/Code-Sleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ### Profile Visits
 ![Profile views](https://komarev.com/ghpvc/?username=Code-Sleek&label=Profile%20views&color=0e75b6&style=flat)
-
-![Visitor Count](https://profile-counter.glitch.me/Code-Sleek/count.svg)
-
-<p align="center">
-  <b>✨ Visitors Count ✨</b><br>
-  <img src="https://profile-counter.glitch.me/Code-Sleek/count.svg" />
-</p>
-
-
-
 
 ### 🧠 Tech Stack:
 
