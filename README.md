@@ -6,7 +6,7 @@
 - 👀 I’m interested in Data Science, AI, Machine Learning.
 - 🌱 I’m currently learning Programming and AI.
 - 💞️ I’m looking to collaborate on IT projects to level-up my skills.
-- 📫 Can reach me via my LinkedIn.
+- 📫 Can reach me via coorayyashodha@gmail.com .
 - ⚡ Fun fact: Chilling girl 😉
 
 <!---
