@@ -6,7 +6,7 @@
 - 👀 I’m interested in Data Science, AI, Machine Learning.
 - 🌱 I’m currently learning Programming and AI.
 - 💞️ I’m looking to collaborate on IT projects to level-up my skills.
-- 📫 Can reach me via coorayyashodha@gmail.com .
+- 📫 Can reach me via [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coorayyashodha@gmail.com).
 - ⚡ Fun fact: Chilling girl 😉
 
 <!---
