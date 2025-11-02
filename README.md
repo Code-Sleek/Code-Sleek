@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Sleek&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsjnc&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 
