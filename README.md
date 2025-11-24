@@ -17,28 +17,94 @@ You can click the Preview link to take a look at your changes.
 ### Profile Visits
 ![Profile views](https://komarev.com/ghpvc/?username=Code-Sleek&label=Profile%20views&color=0e75b6&style=flat)
 
-### 🧠 Tech Stack
+### 🚀 Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- Shared styles (works outside GitHub README; GitHub strips <style>) -->
+<style>
+  .tech-group-title {
+    margin-top: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 16px;
+  }
 
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  .tech-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    justify-content: flex-start;
+  }
 
+  .tech-tile {
+    width: 70px;
+    height: 70px;
+    background: #1e1e1e;
+    padding: 10px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .tech-tile:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.45);
+  }
+  .tech-tile img {
+    width: 48px;
+    height: 48px;
+  }
+</style>
 
+<!-- Programming Languages -->
+<div class="tech-group-title">💻 Programming Languages</div>
+<div class="tech-row">
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></div>
+</div>
+
+<!-- Web & Frontend -->
+<div class="tech-group-title">🌐 Web & Frontend</div>
+<div class="tech-row">
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></div>
+</div>
+
+<!-- Backend & Databases -->
+<div class="tech-group-title">🛠️ Backend & Databases</div>
+<div class="tech-row">
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" /></div>
+</div>
+
+<!-- Data Science & ML -->
+<div class="tech-group-title">📊 Data Science & Machine Learning</div>
+<div class="tech-row">
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></div>
+</div>
+
+<!-- Tools & Design -->
+<div class="tech-group-title">🧰 Tools & Design</div>
+<div class="tech-row">
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></div>
+  <div class="tech-tile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></div>
+  <div class="tech-tile"><img src="https://img.icons8.com/fluency/512/canva.png" /></div>
 </div>
 
 
