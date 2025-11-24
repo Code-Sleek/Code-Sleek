@@ -36,8 +36,8 @@ You can click the Preview link to take a look at your changes.
   }
 
   .tech-tile {
-    width: 70px;
-    height: 70px;
+    width: 10px;
+    height: 10px;
     background: #1e1e1e;
     padding: 10px;
     border-radius: 12px;
