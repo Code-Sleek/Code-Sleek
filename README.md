@@ -51,8 +51,8 @@ You can click the Preview link to take a look at your changes.
     box-shadow: 0 0 12px rgba(255, 255, 255, 0.45);
   }
   .tech-tile img {
-    width: 48px;
-    height: 48px;
+    width: 10px;
+    height: 10px;
   }
 </style>
 
