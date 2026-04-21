@@ -104,7 +104,7 @@ class Yashodha:
 <div align="center">
 
 <!-- ⚠️ Replace YOUR_REPO_1/2/3/4 with your actual repository names -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=Project_NELLI_SmartCampusOperationsHub1&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/Project_NELLI_SmartCampusOperationsHub)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dyneth02&repo=Project_NELLI_SmartCampusOperationsHub1&theme=tokyonight&hide_border=true)](https://github.com/dyneth02/Project_NELLI_SmartCampusOperationsHub)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=AI-Life-Coach-App&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/AI-Life-Coach-App)
 
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=Customer-Behavior-Analysis&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/Customer-Behavior-Analysis)
