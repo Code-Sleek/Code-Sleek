@@ -99,6 +99,64 @@ class Yashodha:
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- ⚠️ Replace YOUR_REPO_1/2/3/4 with your actual repository names -->
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/YOUR_REPO_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/YOUR_REPO_2)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/YOUR_REPO_3)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Code-Sleek&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true)](https://github.com/Code-Sleek/YOUR_REPO_4)
+
+</div>
+
+---
+
+## 🗓️ 2025 Learning Roadmap
+
+```text
+✅  Python & R for Data Science
+✅  Machine Learning (Scikit-learn, TensorFlow)
+✅  Full Stack (React + Node + Express)
+🔄  Deep Learning & Neural Networks      ████████░░  80%
+🔄  Large Language Models (LLMs)         ██████░░░░  60%
+🔄  MLOps & Model Deployment             ████░░░░░░  40%
+⬜  Reinforcement Learning               ██░░░░░░░░  20%
+⬜  Cloud AI (AWS / GCP)                 █░░░░░░░░░  10%
+```
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+<!--
+  HOW TO SET UP WAKATIME (free):
+  1. Sign up at https://wakatime.com
+  2. Install the WakaTime plugin in VS Code (search "WakaTime" in Extensions)
+  3. Paste your API key when it asks — that's it, it tracks automatically
+  4. After a few days of coding, your stats will appear here automatically
+  Note: replace "Code-Sleek" below with your WakaTime username if different
+-->
+
+[![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=Code-Sleek&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@Code-Sleek)
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+<!-- ⚠️ Replace "yashodha_cooray" with your actual LeetCode username -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yashodha_cooray)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashodha_cooray?theme=dark&font=Fira%20Code&ext=heatmap&border=0)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -134,10 +192,20 @@ class Yashodha:
 
 </div>
 
-<!-- Snake animation — set this up via GitHub Actions (see note below) -->
+<!-- Snake animation — shows up after you complete the GitHub Actions setup below -->
 <div align="center">
 
 ![snake gif](https://github.com/Code-Sleek/Code-Sleek/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -161,3 +229,67 @@ class Yashodha:
 <div align="center">
   <i>"She believed she could, so she did." 💙</i>
 </div>
+
+
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║           🐍 SNAKE ANIMATION — STEP BY STEP SETUP           ║
+╚══════════════════════════════════════════════════════════════╝
+
+WHAT IS IT?
+  A cool animated snake that eats your green contribution squares.
+  It lives on your profile and updates daily automatically.
+
+STEP 1 — Go to your profile repository
+  Open: github.com/Code-Sleek/Code-Sleek
+  (This is the special repo that shows on your profile page)
+
+STEP 2 — Open the Actions tab
+  Click "Actions" in the top menu bar of the repo.
+
+STEP 3 — Create a new workflow
+  Click "New workflow" → then "set up a workflow yourself"
+
+STEP 4 — Name it and paste this content
+  Name the file:  snake.yml
+  Delete everything in the editor and paste this:
+
+  ──────────────────────────────────────────────
+  name: Generate Snake Animation
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ──────────────────────────────────────────────
+
+STEP 5 — Click "Commit changes" (green button, top right)
+
+STEP 6 — Run it manually the first time
+  Go to Actions tab → click "Generate Snake Animation" on the left
+  → click "Run workflow" → click the green "Run workflow" button
+
+STEP 7 — Wait about 30 seconds, then refresh
+  The snake SVG is now live! The image line already in this README
+  will display it automatically.
+
+That's it! It re-runs every day at midnight automatically. 🎉
+-->
